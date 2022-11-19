@@ -64,4 +64,5 @@ buck-out/
 /vendor/bundle/
 
 # environments
-/.env
+.env
+/config/env.js
